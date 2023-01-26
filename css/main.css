@@ -1,0 +1,10 @@
+header {
+    background-color: black;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+header > img {
+    width: 267.933px;
+}
+
